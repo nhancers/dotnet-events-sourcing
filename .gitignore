@@ -1,1 +1,5 @@
 
+*.dll
+bin/
+obj/
+.DS_Store
